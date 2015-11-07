@@ -24,7 +24,8 @@ def crostiada(func):
             'Tu si que {}'.format(func.__name__),
             17,
             'No me pagan.',
-            func()
+            func(),
+            'Prefecro'
         ]
 
         # Generate random index
