@@ -15,7 +15,7 @@ def your_function():
 ### Can I use @crostiada to decorate all my methods?
 Of course! If you want to make all your work completely useless go ahead!
 
-### Does crostian module offers any useful feature?
+### Does crostian module provides any useful function?
 No, sorry.
 
 # License
