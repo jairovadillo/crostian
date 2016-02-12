@@ -25,7 +25,8 @@ def crostiada(func):
             17,
             'No me pagan.',
             func(),
-            'Prefecro'
+            'Prefecro',
+            'NO TE PRECIPOTES'
         ]
 
         # Generate random index
